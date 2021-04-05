@@ -26,4 +26,4 @@
 
  - Programacion: si yo programeo vien creo
  
- - Tengo mucho sueño
+ - Siempre tengo sueño
