@@ -26,4 +26,4 @@
 
  - Programacion: si yo programeo vien creo
  
- - Siempre tengo hambre
+ - Siempre tengo sueño
