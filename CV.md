@@ -26,4 +26,4 @@
 
  - Programacion: si yo programeo vien creo
  
- - Me creo mas gracioso de lo que soy
+ - Tengo mucho sueño
